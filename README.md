@@ -1,6 +1,6 @@
 # Curso Python
 
-## Primera clase
+## Primera Clase
 
 - Hola Mundo
 - Tipos de datos
@@ -8,3 +8,10 @@
 - Variables
 - Input de datos
 - Ejercicios
+
+## Segunda Clase
+
+- Condicionales
+- Listas
+- Loops
+- Rangos
