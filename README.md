@@ -17,3 +17,9 @@
 - Listas
 - Loops
 - Rangos
+
+## Tercera Clase
+
+- While
+- For
+- Funciones
