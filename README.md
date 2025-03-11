@@ -32,3 +32,9 @@
 ## Clase 5
 
 - Regex
+
+## Clase 6
+
+- Fechas
+- Requests
+- Clases
