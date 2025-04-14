@@ -38,3 +38,7 @@
 - Fechas
 - Requests
 - Clases
+
+## Clase 7
+
+- Scraping
